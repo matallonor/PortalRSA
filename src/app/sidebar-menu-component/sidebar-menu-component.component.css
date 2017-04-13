@@ -1,0 +1,16 @@
+#div-sidebar-menu {
+    background: #333333;
+    min-width: 300px;
+    width: 20%;
+    height: 100%;
+    float: left;
+    padding: 10px;
+}
+
+ul {
+    margin: 20% auto;
+}
+
+.nav-pills>app-menu-item {
+    border-radius: 0;
+}

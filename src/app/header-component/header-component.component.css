@@ -1,0 +1,82 @@
+
+#header {
+    min-width: 1200px;
+}
+
+/*Application logo*/
+#div-logo-app {
+    min-width: 300px;
+    width: 20%;
+    float: left;
+}
+
+#div-logo-app>img{
+    width: 215px;
+    height: 63px;
+    display: block;
+    margin: 4% auto;
+}
+/*_________________*/
+
+/*Gencat logo*/
+#img-logo-gencat {
+    width: 370px;
+    height: 86px;
+}
+/*_________________*/
+
+
+/*Icons section*/
+#div-icons-section {
+    float: right;
+    min-width: 150px;
+    margin-right: 10px;
+}
+
+.icon-frame {
+    height: 86px;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.icon-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+#icon-vertical-alignment {
+    vertical-align: middle;
+}
+/*_________________*/
+
+
+/*User section*/
+
+#div-user-section {
+    width: 20%;
+    height: 86px;
+    padding: 5px;
+    float: right;
+    background: #efefef;
+}
+
+#div-ic-usr {
+    width: 15%;
+    height: 100%;
+    float: left;
+    white-space: nowrap;
+    text-align: center;
+}
+
+#div-user-date {
+    width: 85%;
+    height: 100%;
+    padding: 10px 20px;
+    float: right;
+}
+
+#div-user-section>p {
+    display: block;
+}
+/*_________________*/
